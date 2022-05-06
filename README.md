@@ -4,9 +4,9 @@
 
 ### ✔️ Sobre mim :
 
-- 👨‍💻 Me chamo **Marcelo Nascimento Tavares**, tenho 22 anos.
+- 👨‍💻 Me chamo **Marcelo Nascimento Tavares**, tenho 23 anos.
 
-- 💻 Desenvolvedor **FullStack** há cerca de 2 anos e meio.
+- 💻 Desenvolvedor **FullStack** há cerca de 4 anos.
 
 - 📌 Morando em Curitiba, PR.
 - 🎓 Cursei até o último semestre de **ADS**, maior parte do meu conhecimento adquiri com pesquisas e muita prática, muita facilidade em se **Adaptar** e ser **Autodidata**
